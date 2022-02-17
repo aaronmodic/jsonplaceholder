@@ -1,0 +1,13 @@
+{
+	"products":[
+		{
+			"id:1
+			"name":"Structure and Interpretation of Computer Programs",
+			"quantity":998001,
+			"unit_price_cents":961,
+			"created_at":"10/11/21",
+			"updated_at":"02/15/22",
+			"part_number":""
+		}
+	]
+}
